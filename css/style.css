@@ -106,7 +106,7 @@ p{
 
 /* paralax section style start */
 .paralax-bg{
-	background-image: url(/assets/axit-bg.png);
+	background-image: url(../assets/axit-bg.png);
 	background-size: cover;
 	background-attachment: fixed;
 	height: 100%;
@@ -389,7 +389,7 @@ input:focus{
 
 /* about section style start */
 .about-axure{
-	background-image:url(/assets/bg-2.png);
+	background-image:url(../assets/bg-2.png);
 }
 
 .about-title p {
